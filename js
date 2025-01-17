@@ -9,7 +9,7 @@ const questions = [
         ]
     },
     {
-        question: 'What is the capital of France?',
+        question: 'What is the capital of ?',
         answers: [
             { text: 'Berlin', correct: false },
             { text: 'Madrid', correct: false },
